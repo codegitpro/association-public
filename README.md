@@ -13,7 +13,7 @@
 **毕业设计所有选题地址：
 [https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
-## Java+SpringBoot  大学生社团管理系统026
+## Java+SpringBoot  大学生社团管理系统027
 
 ## 一、系统介绍
 
